@@ -179,3 +179,5 @@ mise.toml
 
 # taplo
 .taplo.toml
+
+./.devcontainer/*
